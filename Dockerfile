@@ -1,4 +1,4 @@
-FROM ubuntu:jammy-20230425
+FROM ubuntu:jammy-20230522
 COPY ["setup.sh", "/"]
 COPY ["sources.list", "/"]
 COPY ["99own", "/"]
