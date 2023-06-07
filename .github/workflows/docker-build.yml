@@ -28,4 +28,4 @@ jobs:
           context: .
           push: true
           tags: |
-            z3zens/ubuntu:20230607
+            z3zens/ubuntu:20230608
